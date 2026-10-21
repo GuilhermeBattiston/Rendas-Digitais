@@ -1,4 +1,4 @@
-import {BASE,SESSION_KEY,readSession,validSession,projectDestination} from './session.js';
+import {BASE,SESSION_KEY,readSession,validSession,projectDestination} from './session.js?v=menus10';
 const script = document.querySelector('script[data-cardapio]');
 const project = script?.dataset.cardapio;
 function check() {
