@@ -25,7 +25,7 @@ O portal segue a apresentação WebForge do repositório `GuilhermeBattiston/pro
 
 ## Repositório e publicação
 
-Destino: https://github.com/GuilhermeBattiston/Rendas-Digitais. O workflow `.github/workflows/portal.yml` instala, verifica e constrói os projetos em pushes para `main`. O deploy só é executado por `workflow_dispatch` com **Publicar no GitHub Pages** marcado. Para publicar depois de autorizado: habilite Pages com origem GitHub Actions nas configurações do repositório e execute esse workflow com a opção marcada. A URL esperada, após o sucesso confirmado do deploy, será `https://guilhermebattiston.github.io/Rendas-Digitais/`.
+Repositório: https://github.com/GuilhermeBattiston/Rendas-Digitais. O GitHub Pages está configurado com origem GitHub Actions. O workflow `.github/workflows/portal.yml` instala, verifica, constrói e publica os projetos em pushes para `main`. Também pode ser executado manualmente com **Publicar no GitHub Pages** marcado. Endereço do portal: https://guilhermebattiston.github.io/Rendas-Digitais/.
 
 Não são necessárias variáveis secretas para os protótipos nem para o separador visual. O arquivo de acessos é público por construção; não use senhas pessoais ou reutilizadas.
 
@@ -38,4 +38,4 @@ Cada pasta tem seu próprio `package.json`, lockfile, código, imagens, fontes e
 - [Manual Mhay](mhay-cardapio-prototipo/README.md)
 - [Manual Umai](umai-cardapio-prototipo/README.md)
 
-Os endereços acima funcionam neste computador enquanto os servidores estiverem em execução. Links públicos dependem de publicação posterior, que não foi realizada.
+Os endereços de loopback funcionam neste computador enquanto os servidores estiverem em execução. Para apresentação online, utilize o endereço do GitHub Pages acima.

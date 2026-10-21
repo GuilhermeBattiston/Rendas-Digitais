@@ -1,4 +1,4 @@
-name: Validar e preparar portal
+name: Publicar portal no GitHub Pages
 on:
   push:
     branches: [main]
@@ -32,7 +32,7 @@ jobs:
         with:
           path: pages-dist
   publish:
-    if: github.event_name == 'workflow_dispatch' && inputs.publish
+    if: github.event_name == 'push' || inputs.publish
     needs: build
     runs-on: ubuntu-latest
     permissions:

@@ -2,6 +2,8 @@
 
 ## Atualização: repositório e portal de apresentação
 
+**Hospedagem GitHub Pages:** publicação autorizada pelo solicitante. O Pages foi ativado no repositório com `build_type: workflow` e HTTPS. O workflow foi ajustado para publicar automaticamente a branch `main` depois de lint, TypeScript, testes e build. Endereço configurado: https://guilhermebattiston.github.io/Rendas-Digitais/. Os registros abaixo descrevem também as etapas anteriores à autorização de hospedagem.
+
 Os dois cardápios foram enviados à branch `main` de `GuilhermeBattiston/Rendas-Digitais`. Foi adicionado um portal baseado na referência do chat “Criação de Sites”, com acessos próprios `mhay` e `umai`, senhas de apresentação armazenadas somente como hash no registro, redirecionamento ao cardápio correspondente, manutenção da seleção na sessão e opção de sair. Trata-se exclusivamente de um separador visual no navegador, sem proteção real dos arquivos estáticos.
 
 Validação desta atualização: lint e TypeScript dos aplicativos, 14 testes dos cardápios, 5 testes do portal, build agregado e teste de navegador de entrada inválida, dois acessos válidos, recarga, navegação cruzada, entrada direta, logout, mostrar/ocultar senha e mobile. Evidências em `evidencias/portal-acesso.json`; capturas ficam disponíveis localmente e não são versionadas. O primeiro workflow remoto de validação/build foi confirmado com resultado `success`: https://github.com/GuilhermeBattiston/Rendas-Digitais/actions/runs/39643497861.
