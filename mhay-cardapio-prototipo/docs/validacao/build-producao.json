@@ -1,0 +1,18 @@
+{
+  "checks": [
+    "Mhay: build em subdiretório, produto, sacola, validação de endereço e revisão aprovados",
+    "Umai: build em subdiretório, produto, sacola, validação de endereço e revisão aprovados"
+  ],
+  "assets": {
+    "mhay": {
+      "fonts": "loaded",
+      "loaded": true
+    },
+    "umai": {
+      "fonts": "loaded",
+      "loaded": true
+    },
+    "mhayLogs": [],
+    "umaiLogs": []
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "key": "mhayPrompt",
+    "prompt": "Use case: photorealistic-natural. Create one landscape editorial food photograph for a Brazilian pastelaria demo website. Close-up of golden crispy rectangular Brazilian pastel pastries, one broken open showing melted cheese, on a cream ceramic plate with parchment, small ceramic cup of tomato vinaigrette beside it, warm burnt orange tabletop, natural late afternoon side light, tactile crunchy bubbles in pastry, sophisticated food styling, appetizing realistic commercial photography. No text, logos, people, watermarks. Landscape 3:2 composition, plate fills frame. This is illustrative food, not a real business product."
+  },
+  {
+    "key": "umaiPrompt",
+    "prompt": "Use case: photorealistic-natural. Asset type: editorial cafe website hero photograph. Primary request: a welcoming Brazilian urban cafe pause, a cream ceramic cappuccino cup with simple latte art on a saucer, a grilled ham and cheese sandwich cut diagonally on a small ceramic plate, a croissant behind it. Muted sage green cafe tabletop, softly lit by a window, natural film grain, restrained editorial photography, no people, no text, no logos, no watermark. Landscape 3:2, camera at 45 degrees, tightly composed still life, appetizing and real. Illustrative for a demonstration, not a real business product."
+  },
+  {
+    "key": "salgadosPrompt",
+    "prompt": "Photorealistic editorial food photograph of two traditional Brazilian coxinhas, teardrop-shaped golden breaded chicken croquettes, one cut showing shredded chicken, on a cream ceramic plate with parchment on a warm muted tan tabletop, soft natural light. No text, no logos, no people. Landscape 4:3, tight food composition. Illustrative food photo for a restaurant prototype."
+  },
+  {
+    "key": "pao-queijoPrompt",
+    "prompt": "Photorealistic editorial food photograph of Brazilian pao de queijo, six small round golden cheese bread puffs, one torn showing chewy airy cheese interior, in a cream ceramic shallow bowl on warm muted tan tabletop, soft natural light. No text, logos or people. Landscape 4:3, tight food composition. Illustrative food photo for a restaurant prototype."
+  },
+  {
+    "key": "refeicaoPrompt",
+    "prompt": "Photorealistic editorial food photograph of a Brazilian prato feito lunch plate, white rice, black beans in small bowl, grilled chicken breast, green lettuce and tomato salad, on simple cream ceramic plate on muted tan tabletop, soft natural light. No text, logos or people. Landscape 4:3, tight food composition. Illustrative food photo for a restaurant prototype."
+  }
+, {"key":"omeletePrompt","prompt":"Photorealistic editorial food photograph of a folded golden herb omelette with tomato pieces and a small green lettuce side salad, on a cream ceramic plate on a muted warm tan cafe tabletop. Soft natural window light, appetizing and realistic, close-up landscape 4:3. No text, no logos, no people. Illustrative food photography for a cafe menu prototype."}]

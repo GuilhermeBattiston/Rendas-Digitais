@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+.env*
+test-results/
+*.tsbuildinfo
+entrega/*.zip
+pages-dist/
+evidencias/*.png

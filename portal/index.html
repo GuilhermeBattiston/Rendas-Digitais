@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <meta name="theme-color" content="#151b22" />
+    <meta
+      name="description"
+      content="Ambiente de apresentação de projetos WebForge."
+    />
+    <title>WebForge — Acesse seu cardápio</title>
+    <link rel="icon" href="./portal/favicon.svg" />
+    <link rel="stylesheet" href="./portal/styles.css" />
+    <script type="module" src="./portal/login.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#login">Pular para o acesso</a>
+    <main class="portal-layout">
+      <section class="intro">
+        <a href="./" class="wordmark" aria-label="WebForge, início"
+          ><span class="forge-mark">w<span>f</span></span
+          >webforge</a
+        >
+        <div class="intro-copy">
+          <div class="eyebrow">
+            <span class="tiny-square"></span> DA IDEIA À PRÓXIMA VERSÃO
+          </div>
+          <div class="intro-title">
+            Seu próximo cardápio.<br />Um novo ponto<br />de <span>partida.</span>
+          </div>
+          <p>
+            Um espaço dedicado à apresentação<br />do projeto que estamos
+            criando para você.
+          </p>
+          <div class="intro-rule"></div>
+          <div class="journey">
+            <span><b>01</b>Acesso</span><i></i
+            ><span class="journey-next"><b>02</b>Seu projeto</span
+            ><svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M5 12h14m-5-5 5 5-5 5" />
+            </svg>
+          </div>
+        </div>
+        <div class="intro-footer">
+          <span>DESIGN COM INTENÇÃO.<br />DESENVOLVIMENTO COM DIREÇÃO.</span
+          ><span>WEBFORGE / CLIENT ACCESS</span>
+        </div>
+      </section>
+      <section class="access" aria-labelledby="login-title">
+        <div class="access-top">
+          <span>PRÉVIAS COMERCIAIS</span
+          ><span class="private-label"
+            ><svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="5" y="10" width="14" height="11" rx="2" />
+              <path d="M8 10V7a4 4 0 0 1 8 0v3m-4 5v2" /></svg
+            >ACESSO AO CARDÁPIO</span
+          >
+        </div>
+        <div class="login-content" id="login">
+          <div class="section-index">/01 — BOAS-VINDAS</div>
+          <h1 id="login-title">Acesse seu cardápio<span>.</span></h1>
+          <p class="description">
+            Entre com as credenciais fornecidas para visualizar a apresentação
+            do seu cardápio.
+          </p>
+          <form id="login-form" novalidate>
+            <label for="username">Usuário</label
+            ><input
+              id="username"
+              name="username"
+              type="text"
+              autocomplete="username"
+              autocapitalize="none"
+              spellcheck="false"
+              maxlength="64"
+              placeholder="Seu usuário de acesso"
+              required
+            /><label for="password">Senha</label>
+            <div class="password-field">
+              <input
+                id="password"
+                name="password"
+                type="password"
+                autocomplete="current-password"
+                maxlength="1024"
+                placeholder="Digite sua senha"
+                required
+              /><button
+                id="toggle-password"
+                type="button"
+                aria-label="Mostrar senha"
+                aria-pressed="false"
+              >
+                <svg class="eye-open" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7S2 12 2 12Z" />
+                  <circle cx="12" cy="12" r="3" /></svg
+                ><svg
+                  class="eye-closed"
+                  viewBox="0 0 24 24"
+                  aria-hidden="true"
+                  hidden
+                >
+                  <path
+                    d="m3 3 18 18M9 5.4a12 12 0 0 1 3-.4c7 0 10 7 10 7a16 16 0 0 1-3.3 4.3M6 6a16 16 0 0 0-4 6s3 7 10 7a12 12 0 0 0 5-1m-7.1-7.1a3 3 0 0 0 4.2 4.2"
+                  />
+                </svg>
+              </button>
+            </div>
+            <p id="error" class="error-message" role="alert" hidden></p>
+            <button class="submit-button" type="submit">
+              <span class="button-label">Acessar cardápio</span
+              ><svg class="button-arrow" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M5 12h14m-5-5 5 5-5 5" /></svg
+              ><span class="spinner" hidden></span>
+            </button>
+            <p class="form-help">
+              Acesso demonstrativo. Produtos e preços fictícios.
+            </p>
+          </form>
+          <div class="access-help">
+            <span>Precisa de acesso?</span>
+            <p>
+              Fale com a agência responsável pela apresentação do seu projeto.
+            </p>
+          </div>
+        </div>
+        <footer class="access-footer">
+          <span>Separador visual · arquivos públicos.</span
+          ><span>WEBFORGE © 2026</span>
+        </footer>
+      </section>
+    </main>
+  </body>
+</html>
+
+

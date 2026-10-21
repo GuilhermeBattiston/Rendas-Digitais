@@ -1,0 +1,1 @@
+{"data":"2026-10-21","comando":"npm.cmd audit --omit=dev --json","aplicacao":"mhay-cardapio-prototipo","escopo":"Dependências de produção. Conjunto React/React DOM equivalente na Umai.","exitCode":0,"vulnerabilidades":{"info":0,"low":0,"moderate":0,"high":0,"critical":0,"total":0}}
