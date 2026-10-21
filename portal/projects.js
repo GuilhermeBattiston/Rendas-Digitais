@@ -1,0 +1,12 @@
+export const projects = [
+  {slug:'mhay', name:'Mhay Pastelaria e Lanchonete', source:'mhay-cardapio-prototipo'},
+  {slug:'umai', name:'Umai Café e Lanches', source:'umai-cardapio-prototipo'},
+  {slug:'cwb-acai', name:'CWB Açaí', source:'cardapios-restaurantes'},
+  {slug:'chewie', name:'Chewie Burger and Beer', source:'cardapios-restaurantes'},
+  {slug:'fogo-gelo', name:'Hamburgueria Fogo & Gelo', source:'cardapios-restaurantes'},
+  {slug:'21-sabores', name:'Lanchonete 21 Sabores', source:'cardapios-restaurantes'},
+  {slug:'djalma', name:'Djalma Lanches', source:'cardapios-restaurantes'},
+  {slug:'harlem', name:'Harlem Hamburgueria Curitiba', source:'cardapios-restaurantes'},
+  {slug:'jalapeno', name:'Jalapeño Burger', source:'cardapios-restaurantes'},
+  {slug:'divinas-tetas', name:'Divinas Tetas', source:'cardapios-restaurantes'},
+];

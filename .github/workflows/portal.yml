@@ -25,6 +25,7 @@ jobs:
           cache-dependency-path: |
             mhay-cardapio-prototipo/package-lock.json
             umai-cardapio-prototipo/package-lock.json
+            cardapios-restaurantes/package-lock.json
       - run: npm run setup
       - run: npm run check
       - run: npm run build

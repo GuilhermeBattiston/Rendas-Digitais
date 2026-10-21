@@ -1,5 +1,6 @@
+import {projects} from './projects.js';
 export const SESSION_KEY = 'renda-digital-presentation-v1';
-export const PROJECTS = ['mhay', 'umai'];
+export const PROJECTS = projects.map(project => project.slug);
 export const SESSION_DURATION = 8 * 60 * 60 * 1000;
 export const BASE = new URL('../', import.meta.url);
 export function validSession(value, project, now = Date.now()) {

@@ -1,0 +1,50 @@
+[
+  {
+    "key": "cwb-acai",
+    "prompt": "Photorealistic editorial food photo for a Brazilian acai menu prototype: rich deep purple acai in a cream ceramic bowl topped with neatly arranged banana slices, strawberries and granola, small bowl of cashew cream beside it, muted lilac tabletop, natural warm daylight, tight appetizing closeup, landscape 3:2. No lettering, branding, people or watermark. Illustrative, not a real restaurant product.",
+    "original": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-92d510db-5b97-46a6-a757-a522929c44b2.png",
+    "output": "cardapios-restaurantes/public/images/cwb-acai.webp"
+  },
+  {
+    "key": "chewie",
+    "prompt": "Editorial food photo: a juicy double smash cheeseburger with melted cheddar, pickles and a golden toasted bun, metal tray and parchment, dark charcoal tabletop, dramatic warm side lighting, crisp appetizing detail, landscape 3:2, upscale urban burger menu. No characters, franchise elements, logos, text, people or watermark. Illustrative prototype photo.",
+    "original": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-b8cd98a0-8d49-4cd9-903d-edcfa35d1681.png",
+    "output": "cardapios-restaurantes/public/images/chewie.webp"
+  },
+  {
+    "key": "fogo-gelo",
+    "prompt": "Photorealistic food editorial: flame-grilled cheeseburger with lettuce and tomato on a terracotta ceramic plate, golden fries and a cold glass of citrus soda with ice beside it, warm rust tabletop and soft cool blue background, natural appetizing light, landscape 3:2. No actual flame, no text, logos, watermark or people. Menu prototype illustrative photograph.",
+    "original": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-baa2d0a8-d6f3-4679-85b2-e50b9447de71.png",
+    "output": "cardapios-restaurantes/public/images/fogo-gelo.webp"
+  },
+  {
+    "key": "21-sabores",
+    "prompt": "Photorealistic Brazilian lanchonete editorial photograph: grilled ham and melted cheese sandwich cut diagonally, golden croquette and small fresh orange juice glass on cream plate, warm sunny yellow tabletop, natural side light, overhead 45 degree view, landscape 3:2. No text, logos, watermark or people. Illustrative food for a menu prototype.",
+    "original": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-d69ed8fc-3f55-4ffd-8f33-e90b76f8cacb.png",
+    "output": "cardapios-restaurantes/public/images/21-sabores.webp"
+  },
+  {
+    "key": "djalma",
+    "prompt": "Photorealistic Brazilian diner food editorial: a generous classic Brazilian cheeseburger with beef patty, lettuce, tomato, fried egg and melted cheese, wrapped halfway in parchment, beside a small portion of golden fries, off-white tabletop with a subtle burgundy paper napkin, nostalgic lunch counter aesthetic, soft natural light, landscape 3:2. No text, logos, people or watermark. Illustrative food prototype.",
+    "original": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-4f3ebe3c-4eb5-4d8c-a51b-a59194abecf7.png",
+    "output": "cardapios-restaurantes/public/images/djalma.webp"
+  },
+  {
+    "key": "harlem",
+    "prompt": "Photorealistic editorial food photo: a gourmet beef burger with melted cheddar and caramelized onions on a toasted brioche bun, thick golden fries and small ceramic sauce cup on a dark blue metal tray, moody navy tabletop, warm cinematic side light, closeup landscape 3:2. No text, logos, people, alcohol or watermark. Illustrative urban burger menu prototype.",
+    "original": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-b742a843-564f-4fe5-a9f7-c9bcce7bc261.png",
+    "output": "cardapios-restaurantes/public/images/harlem.webp"
+  },
+  {
+    "key": "jalapeno",
+    "prompt": "Photorealistic food editorial: a gourmet cheeseburger with fresh green jalapeno slices, cheddar, red onion and lettuce on brioche, green peppers arranged beside it on a light cream plate, deep forest green tabletop, bright natural directional light, bold fresh color, closeup landscape 3:2. No text, logos, people or watermark. Illustrative prototype food photograph.",
+    "original": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-9be647a5-c5d0-4cf9-bd9b-4e4ae2c21f35.png",
+    "output": "cardapios-restaurantes/public/images/jalapeno.webp"
+  },
+  {
+    "key": "divinas",
+    "prompt": "Photorealistic vegan pastry editorial still life: a beautiful small chocolate layer cake with plant-based strawberry frosting and fresh berries, two chocolate truffles and a cookie beside it, lilac linen napkin on a cream stone table, soft window light, refined contemporary confectionery styling, landscape 3:2, tight appetizing composition. No text, logos, people, watermark or dairy props. Illustrative food photo for a vegan confectionery menu concept.",
+    "original": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-47598eff-88fb-42b0-b008-41ea15b80a21.png",
+    "output": "cardapios-restaurantes/public/images/divinas.webp"
+  }
+]
