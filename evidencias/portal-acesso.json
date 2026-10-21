@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-21",
+  "checks": [
+    "Campos vazios rejeitados",
+    "Senha incorreta rejeitada",
+    "Login Mhay direciona ao cardápio Mhay",
+    "Recarga mantém a seleção Mhay",
+    "Acesso cruzado volta ao cardápio selecionado",
+    "Entrada direta sem sessão volta ao login",
+    "Login Umai direciona ao cardápio Umai",
+    "Recarga mantém a seleção Umai",
+    "Saída da Umai retorna ao portal",
+    "Alternância de visibilidade da senha funciona",
+    "Portal mobile sem rolagem horizontal",
+    "Login mobile abre a Umai com opção de saída",
+    "Saída mobile não sobrepõe a sacola"
+  ],
+  "logs": []
+}

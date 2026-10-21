@@ -1,5 +1,15 @@
 # Entrega — Renda Digital
 
+## Atualização: repositório e portal de apresentação
+
+Os dois cardápios foram enviados à branch `main` de `GuilhermeBattiston/Rendas-Digitais`. Foi adicionado um portal baseado na referência do chat “Criação de Sites”, com acessos próprios `mhay` e `umai`, senhas de apresentação armazenadas somente como hash no registro, redirecionamento ao cardápio correspondente, manutenção da seleção na sessão e opção de sair. Trata-se exclusivamente de um separador visual no navegador, sem proteção real dos arquivos estáticos.
+
+Validação desta atualização: lint e TypeScript dos aplicativos, 14 testes dos cardápios, 5 testes do portal, build agregado e teste de navegador de entrada inválida, dois acessos válidos, recarga, navegação cruzada, entrada direta, logout, mostrar/ocultar senha e mobile. Evidências em `evidencias/portal-acesso.json`; capturas ficam disponíveis localmente e não são versionadas. O primeiro workflow remoto de validação/build foi confirmado com resultado `success`: https://github.com/GuilhermeBattiston/Rendas-Digitais/actions/runs/39643497861.
+
+Fluxo atual: `npm run setup`, `npm run check`, `npm run build`, `npm start`, a partir da raiz. Prévia em `http://127.0.0.1:4180/Rendas-Digitais/`. O workflow prepara o artefato em pushes e mantém a publicação Pages como ação manual separada. O envio ao repositório foi autorizado e realizado; não foi iniciada a publicação da página.
+
+O restante deste relatório documenta a primeira entrega local, anterior à integração no repositório e ao portal. Os comandos atuais estão no README da raiz. Os builds individuais e os pacotes ZIP da primeira entrega continuam independentes do portal.
+
 21/10/2026 · Curitiba / America/Sao_Paulo
 
 ## Resultado e caminhos
