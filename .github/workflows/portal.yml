@@ -26,6 +26,9 @@ jobs:
             mhay-cardapio-prototipo/package-lock.json
             umai-cardapio-prototipo/package-lock.json
             cardapios-restaurantes/package-lock.json
+            pastelaria-zico-prototipo/package-lock.json
+            pastelaria-modelo-prototipo/package-lock.json
+            pastelaria-da-mi-prototipo/package-lock.json
       - run: npm run setup
       - run: npm run check
       - run: npm run build

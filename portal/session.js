@@ -1,4 +1,4 @@
-import {projects} from './projects.js';
+import {projects} from './projects.js?v=menus13';
 export const SESSION_KEY = 'renda-digital-presentation-v1';
 export const PROJECTS = projects.map(project => project.slug);
 export const SESSION_DURATION = 8 * 60 * 60 * 1000;

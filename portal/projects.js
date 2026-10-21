@@ -9,4 +9,7 @@ export const projects = [
   {slug:'harlem', name:'Harlem Hamburgueria Curitiba', source:'cardapios-restaurantes'},
   {slug:'jalapeno', name:'Jalapeño Burger', source:'cardapios-restaurantes'},
   {slug:'divinas-tetas', name:'Divinas Tetas', source:'cardapios-restaurantes'},
+  {slug:'zico',name:'Pastelaria & Lanchonete do Zico',source:'pastelaria-zico-prototipo'},
+  {slug:'modelo',name:'Pastelaria Modelo',source:'pastelaria-modelo-prototipo'},
+  {slug:'da-mi',name:'Pastelaria e Lanchonete da Mi',source:'pastelaria-da-mi-prototipo'},
 ];

@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "zico",
+    "contentWidth": 267,
+    "dialogWidth": 282,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "slug": "zico",
+    "contentWidth": 322,
+    "dialogWidth": 337,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "slug": "zico",
+    "contentWidth": 337,
+    "dialogWidth": 352,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "slug": "zico",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "slug": "zico",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 1024
+  },
+  {
+    "slug": "zico",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "slug": "modelo",
+    "contentWidth": 267,
+    "dialogWidth": 282,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "slug": "modelo",
+    "contentWidth": 322,
+    "dialogWidth": 337,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "slug": "modelo",
+    "contentWidth": 337,
+    "dialogWidth": 352,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "slug": "modelo",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "slug": "modelo",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 1024
+  },
+  {
+    "slug": "modelo",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "slug": "da-mi",
+    "contentWidth": 267,
+    "dialogWidth": 282,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "slug": "da-mi",
+    "contentWidth": 322,
+    "dialogWidth": 337,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "slug": "da-mi",
+    "contentWidth": 337,
+    "dialogWidth": 352,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "slug": "da-mi",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "slug": "da-mi",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 1024
+  },
+  {
+    "slug": "da-mi",
+    "contentWidth": 525,
+    "dialogWidth": 540,
+    "overflow": false,
+    "width": 1440
+  }
+]

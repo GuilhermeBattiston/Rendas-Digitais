@@ -1,0 +1,18 @@
+[
+  {
+    "key": "modelo-pasteis",
+    "prompt": "Use case: photorealistic-natural. Graphic overhead editorial food photograph of three golden Brazilian rectangular fried pastel pastries neatly arranged on white parchment on a cobalt blue metal tray, one cut open with melted cheese, small tomato sauce cup. Pale ivory surface, clean directional natural light, tight appetizing food framing, landscape 3:2. No logos letters text people or watermark. For independent menu demonstration.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-39ab7458-1872-46b3-bc53-aa77dac9d5e5.png",
+    "dir": "pastelaria-modelo-prototipo",
+    "tool": "image_gen built-in",
+    "output": "public/images/modelo-pasteis.webp"
+  },
+  {
+    "key": "modelo-doces",
+    "prompt": "Editorial food photograph, closeup of a golden fried Brazilian sweet pastel cut open with melted chocolate and banana, dusted delicately with cinnamon sugar, white rectangular plate and cobalt blue napkin on ivory table, soft bright daylight. Landscape 3:2. No text logos people or watermark. Illustrative menu photograph.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-4f657bc8-bb5e-48bf-9a08-e3ee7a77f753.png",
+    "dir": "pastelaria-modelo-prototipo",
+    "tool": "image_gen built-in",
+    "output": "public/images/modelo-doces.webp"
+  }
+]

@@ -1,4 +1,4 @@
-import {BASE, SESSION_KEY, SESSION_DURATION, matchingAccount, passwordDigest, projectDestination} from './session.js?v=menus10';
+import {BASE, SESSION_KEY, SESSION_DURATION, matchingAccount, passwordDigest, projectDestination} from './session.js?v=menus13';
 const form = document.querySelector('#login-form');
 const username = document.querySelector('#username');
 const password = document.querySelector('#password');

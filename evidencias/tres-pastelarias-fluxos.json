@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "modelo",
+    "empty": true,
+    "search": 5,
+    "category": 3,
+    "keyboard": {
+      "closed": true,
+      "focus": "Personalizar Queijo"
+    },
+    "required": true,
+    "preserved": {
+      "checked": 2,
+      "note": "Sem azeitona — teste"
+    },
+    "returnCart": true,
+    "requiredName": true,
+    "validTotal": true,
+    "removed": true,
+    "message": "SIMULAÇÃO — NÃO É UM PEDIDO REAL\nPastelaria Modelo\nNome de teste: Cliente demonstração\nModalidade simulada: Retirada\n\n3× Queijo (Grande, Queijo extra) — R$ 64,50\n  Obs.: Sem azeitona — teste\n\nSubtotal ilustrativo: R$ 64,50\nProdutos, preços, imagens e modalidades fictícios. Sem cobrança, reserva ou envio automático."
+  },
+  {
+    "slug": "da-mi",
+    "empty": true,
+    "search": 4,
+    "category": 4,
+    "keyboard": {
+      "closed": true,
+      "focus": "Personalizar Pastel de frango cremoso"
+    },
+    "required": true,
+    "preserved": {
+      "checked": 2,
+      "note": "Sem azeitona — teste"
+    },
+    "returnCart": true,
+    "requiredName": true,
+    "validTotal": true,
+    "removed": true,
+    "message": "SIMULAÇÃO — NÃO É UM PEDIDO REAL\nPastelaria e Lanchonete da Mi\nNome de teste: Cliente demonstração\nModalidade simulada: Retirada\n\n3× Pastel de frango cremoso (Grande, Queijo extra) — R$ 73,50\n  Obs.: Sem azeitona — teste\n\nSubtotal ilustrativo: R$ 73,50\nProdutos, preços, imagens e modalidades fictícios. Sem cobrança, reserva ou envio automático."
+  },
+  {
+    "slug": "zico",
+    "empty": true,
+    "search": 3,
+    "category": 5,
+    "keyboard": {
+      "closed": true,
+      "focus": "Personalizar Pastel de queijo"
+    },
+    "required": true,
+    "preserved": {
+      "checked": 2,
+      "note": "Sem azeitona — teste"
+    },
+    "returnCart": true,
+    "requiredName": true,
+    "validTotal": true,
+    "removed": true,
+    "message": "SIMULAÇÃO — NÃO É UM PEDIDO REAL\nPastelaria & Lanchonete do Zico\nNome de teste: Cliente demonstração\nModalidade simulada: Retirada\n\n3× Pastel de queijo (Grande, Queijo extra) — R$ 61,50\n  Obs.: Sem azeitona — teste\n\nSubtotal ilustrativo: R$ 61,50\nProdutos, preços, imagens e modalidades fictícios. Sem cobrança, reserva ou envio automático."
+  }
+]

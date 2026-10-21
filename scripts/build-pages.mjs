@@ -23,7 +23,7 @@ for(const {slug,source} of projects) {
   const target=path.join(out,slug);await cp(path.join(root,source,'dist'),target,{recursive:true});
   const file=path.join(target,'index.html');let html=await readFile(file,'utf8');
   html=html.replace('<html lang="pt-BR">','<html lang="pt-BR" data-gate-pending>');
-  html=html.replace('<head>',`<head>\n<link rel="stylesheet" href="../portal/session.css">\n<script type="module" data-cardapio="${slug}" src="../portal/gate.js?v=menus10"></script>`);
+  html=html.replace('<head>',`<head>\n<link rel="stylesheet" href="../portal/session.css">\n<script type="module" data-cardapio="${slug}" src="../portal/gate.js?v=menus13"></script>`);
   await writeFile(file,html);
 }
 console.log(`Portal e ${projects.length} cardápios preparados em pages-dist. Separador visual, sem autenticação de servidor.`);

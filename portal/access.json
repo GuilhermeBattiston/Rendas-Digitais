@@ -48,5 +48,20 @@
     "username": "divinas",
     "project": "divinas-tetas",
     "passwordHash": "8f8e3cefdbb86c67cf81aa6476a508d8ad9d6210344b477092176193cd6fe016"
+  },
+  {
+    "username": "zico",
+    "project": "zico",
+    "passwordHash": "24d562c5db7a1cf8cfd141ccbba74894bc7823a2a995342613ac81571d47ce3c"
+  },
+  {
+    "username": "modelo",
+    "project": "modelo",
+    "passwordHash": "1a996774292b2dad69ddac44519175eefb6ef1c6f6bc3d122e0dc5976a4ca812"
+  },
+  {
+    "username": "dami",
+    "project": "da-mi",
+    "passwordHash": "6da9f0a8c9462d44f37b9e96fc83697e816f49dd584e19884e6d31aa5af26e3f"
   }
 ]

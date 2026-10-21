@@ -1,0 +1,36 @@
+[
+  {
+    "key": "mi-pasteis",
+    "prompt": "Use case: photorealistic-natural. Warm homely Brazilian food editorial: golden fried rectangular pastel cut open with shredded chicken and creamy cheese filling, second whole pastel behind it, terracotta plate on soft peach linen table, small green herb sprig beside plate, natural window light, tight appetizing composition landscape 3:2. No words logos people or watermark. Illustrative menu concept not a real establishment photograph.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-5df461c8-dff6-4bcc-9152-5861cd573e13.png",
+    "dir": "pastelaria-da-mi-prototipo",
+    "tool": "image_gen built-in",
+    "output": "public/images/mi-pasteis.webp"
+  },
+  {
+    "key": "mi-pausa",
+    "prompt": "Editorial food photograph of a small carrot cake slice with chocolate topping beside coffee with milk in a ceramic cream cup, small plate of cheese bread in background, peach linen and warm terracotta tabletop, natural soft morning light, tight inviting composition, landscape 3:2. No logos words people or watermark. Illustrative Brazilian lanchonete menu photograph.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-4d5de8d7-6b1a-4c89-9d7b-f9ade7456559.png",
+    "dir": "pastelaria-da-mi-prototipo",
+    "tool": "image_gen built-in",
+    "output": "public/images/mi-pausa.webp"
+  },
+  {
+    "key": "mi-salgado",
+    "dir": "pastelaria-da-mi-prototipo",
+    "file": "salgado",
+    "prompt": "Editorial food photograph: a toasted grilled cheese and tomato sandwich cut diagonally on terracotta ceramic plate, peach linen table, warm natural window light, landscape 3:2. No text logos watermark or people. Illustrative food photograph.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-4b6c082e-55d0-45f6-afcf-4322aecf4f81.png",
+    "tool": "image_gen built-in",
+    "output": "public/images/salgado.webp"
+  },
+  {
+    "key": "mi-doce",
+    "dir": "pastelaria-da-mi-prototipo",
+    "file": "doce",
+    "prompt": "Editorial food photo: a golden fried Brazilian rectangular sweet pastel cut open showing banana and cinnamon filling, small cream ceramic plate on a peach linen tabletop, warm natural window light, tight appetizing composition, landscape 3:2. No text logos people or watermark. Illustrative independent restaurant menu concept.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-43d9657f-31b4-4ff2-87f6-da517c46c7a9.png",
+    "tool": "image_gen built-in",
+    "output": "public/images/doce.webp"
+  }
+]

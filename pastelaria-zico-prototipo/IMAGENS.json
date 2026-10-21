@@ -1,0 +1,27 @@
+[
+  {
+    "key": "zico-pasteis",
+    "prompt": "Use case: photorealistic-natural. Editorial food photograph for a Brazilian pastelaria menu concept. Golden rectangular fried Brazilian pasteis on a dark green ceramic plate, one cut open with beef and egg filling visible, small ramekin of red sauce. Deep pine green tabletop, natural warm side light, crisp crimped edges and tiny bubbles, appetizing closeup. Landscape 3:2. No words, people, logos or watermark. Illustrative food, not an actual restaurant photo.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-ef5a93d7-a06a-436c-94d3-81820b1ed7a1.png",
+    "dir": "pastelaria-zico-prototipo",
+    "tool": "image_gen built-in",
+    "output": "public/images/zico-pasteis.webp"
+  },
+  {
+    "key": "zico-pausa",
+    "prompt": "Editorial food photograph: Brazilian grilled ham and cheese sandwich cut in triangles, a small espresso cup and fresh orange juice glass, on dark green tabletop, warm natural light, appetizing closeup landscape 3:2. No logos words people or watermark. Illustrative menu concept.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-e5cba3ca-1e8c-4990-afc1-9c630adeeecf.png",
+    "dir": "pastelaria-zico-prototipo",
+    "tool": "image_gen built-in",
+    "output": "public/images/zico-pausa.webp"
+  },
+  {
+    "key": "zico-doce",
+    "dir": "pastelaria-zico-prototipo",
+    "file": "doce",
+    "prompt": "Editorial food photograph: Brazilian sweet fried rectangular pastel, one cut open showing chocolate filling with banana slices beside it, dark green ceramic plate on warm cream tabletop, soft natural side light, landscape 3:2. No text logos people or watermark. Illustrative menu prototype photo.",
+    "path": "C:\\Users\\Win\\.codex\\generated_images\\01a15f39-97a0-7412-86f8-5aba254249cd\\exec-e23a0efa-fa20-4ca7-bce5-31141f6e9d6f.png",
+    "tool": "image_gen built-in",
+    "output": "public/images/doce.webp"
+  }
+]
